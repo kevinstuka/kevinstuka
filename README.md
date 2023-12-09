@@ -3,6 +3,7 @@
 - 🔭 working on JadłoPlan
 
 Link do [Forka](https://github.com/kevinstuka/DiffiT)
+Link do [artykułu](https://paperswithcode.com/paper/diffit-diffusion-vision-transformers-for)
 
 <!--
 **kevinstuka/kevinstuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
