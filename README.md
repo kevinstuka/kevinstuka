@@ -2,6 +2,8 @@
 - 🌱 learning Python
 - 🔭 working on JadłoPlan
 
+Link do [Forka](https://github.com/kevinstuka/DiffiT)
+
 <!--
 **kevinstuka/kevinstuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
